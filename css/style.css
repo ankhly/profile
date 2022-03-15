@@ -1009,7 +1009,7 @@ body.ie ._ibg img {
   }
 
   .menu__body {
-    position: absolute;
+    position: fixed;
     top: 0;
     padding: 130px 0px 100px 0px;
     overflow: auto;
