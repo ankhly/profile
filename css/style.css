@@ -1016,7 +1016,7 @@ body.ie ._ibg img {
     left: -110%;
     z-index: 3;
     width: 100%;
-    min-height: 100%;
+    min-height: 6000px;
     -webkit-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
